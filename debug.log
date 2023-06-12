@@ -1,0 +1,4 @@
+[0824/132247.328:ERROR:crash_report_database_win.cc(459)] unexpected header
+[0824/132254.338:ERROR:crash_report_database_win.cc(459)] unexpected header
+[0824/132254.340:ERROR:filesystem_win.cc(129)] GetFileAttributes C:\Users\user\AppData\Local\Microsoft\Edge\User Data\Crashpad\attachments\454e212e-3f20-4083-a4de-d6ce61b15e47: The system cannot find the path specified. (0x3)
+[0929/161605.235:ERROR:settings.cc(425)] Settings magic is not 1129342067

@@ -1,0 +1,67 @@
+@media only screen and (max-width:940px) {
+    .max div{
+        color: rgb(255, 255, 255);
+        background: green;
+       max-height: 50px;
+        margin: 10px;
+        
+    }
+
+    .max {
+        margin: auto;
+    width: 73%;
+    }
+    span{
+        position: relative;
+    }
+    
+    .max div{
+        color: white;
+        background: darkred;
+        height: 100px;
+        margin: 10px;
+    }
+    .c1{
+        border: 1px solid darkred;
+        margin: 9px;
+        text-align: center;
+        background: red;
+        color: white;
+        width: 940px;
+    
+    }
+    .c2{
+        border: 1px solid darkred;
+        background: red;
+        color: white;
+    width: 460px;
+    display: inline-block;
+    }
+    
+    .c3{  border: 1px solid darkred;
+            margin: 9px;
+            height: 100px;
+    width: 300px;
+            text-align: center;
+            background: red;
+            color: white;
+            display: inline-block;
+    }
+    .c4{
+    
+        width: 220px;
+        display: inline-block;
+    
+    }
+    
+    .c5{
+    
+       
+        width:139px;
+    display: inline-block;
+    }
+    
+
+
+
+}
